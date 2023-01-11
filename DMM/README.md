@@ -154,20 +154,20 @@
 | 12 | 12 | 6 | 3 | 9 | 11 | 10 | 4 | 2 | 5 | 8 | 7 | 1 | 
 
 #### Charts ####
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Result.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Result.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Result_drop_some.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Result_drop_some.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Throughput.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Throughput.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Throughput_drop_some.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Throughput_drop_some.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Percentage.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Percentage.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Percentage_drop_some.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Percentage_drop_some.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Testcase5.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Testcase5.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Testcase5_drop_some.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Testcase5_drop_some.png?raw=true)
 
-![Experiment result](https://github.com/aintmos/Matrix-multiplications/blob/main/DMM/doc/Rank.png?raw=true)
+![Experiment result](https://github.com/programelot/MatrixMultiplication/blob/master/DMM/doc/Rank.png?raw=true)

@@ -16,9 +16,6 @@ add_library(MML8  src/MM8.cu) # res major + blocked + shared + local output + co
 add_library(MML9  src/MM9.cu) # Strassen's
 add_library(MML10 src/MM10.cu) # Data transfer optimized Strassen's
 add_library(MML11 src/MM11.cu) # Winograd's
-add_library(MML12 src/MM12.cu) # Blocked
-add_library(MML13 src/MM13.cu) # Cublas
-target_link_libraries(MML13 -lcublas -lcurand)
 
 add_executable(MMP1  src/tests/performance.cu)
 target_link_libraries(MMP1 MML1)
@@ -42,10 +39,6 @@ add_executable(MMP10 src/tests/performance.cu)
 target_link_libraries(MMP10 MML10)
 add_executable(MMP11 src/tests/performance.cu)
 target_link_libraries(MMP11 MML11)
-add_executable(MMP12 src/tests/performance.cu)
-target_link_libraries(MMP12 MML12)
-add_executable(MMP13 src/tests/performance.cu)
-target_link_libraries(MMP13 MML13)
 
 add_executable(MMEP1  src/tests/errorGPU.cu)
 target_link_libraries(MMEP1 MML1)
@@ -69,7 +62,3 @@ add_executable(MMEP10 src/tests/errorGPU.cu)
 target_link_libraries(MMEP10 MML10)
 add_executable(MMEP11 src/tests/errorGPU.cu)
 target_link_libraries(MMEP11 MML11)
-add_executable(MMEP12 src/tests/errorGPU.cu)
-target_link_libraries(MMEP12 MML12)
-add_executable(MMEP13 src/tests/errorGPU.cu)
-target_link_libraries(MMEP13 MML13)
